@@ -8,7 +8,7 @@ export const routes: RouteObject[] = [
         element: <Login />,
         children: [
             {
-                path: "/*",
+                index: true,
                 element: <App />
             }
         ]
