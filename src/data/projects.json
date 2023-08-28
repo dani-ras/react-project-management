@@ -4,13 +4,13 @@
             "userId": 1,
             "name": "Israel Postal Company",
             "description": "Israel Post is the trading name of the Israel Postal Company, formerly called the Israel Postal Authority, which is a government-owned corporation that provides postal services in Israel.",
-            "image": "/assets/israel-postal.png",
+            "image": "assets/israel-postal.png",
             "status": "Planning"
         },
         {
             "userId": 1,
             "name": "Social Networking Platform",
-            "image": "/assets/social-platform.jpg",
+            "image": "assets/social-platform.jpg",
             "description": "Build a social networking platform where users can create profiles, connect with friends, share posts, and engage in discussions.",
             "techStack": "Ruby on Rails, React, PostgreSQL",
             "status": "In Progress"
@@ -18,7 +18,7 @@
         {
             "userId": 1,
             "name": "Fitness Tracking App",
-            "image": "/assets/fitness-tracking.jpg",
+            "image": "assets/fitness-tracking.jpg",
             "description": "Develop a mobile app that allows users to track their fitness activities, set goals, and monitor their progress over time.",
             "techStack": "Flutter, Firebase, Node.js",
             "status": "Completed"
@@ -26,7 +26,7 @@
         {
             "userId": 1,
             "name": "Online Learning Portal",
-            "image": "/assets/online-learn.png",
+            "image": "assets/online-learn.png",
             "description": "Create an online platform for educational courses, featuring video lectures, quizzes, assignments, and student progress tracking.",
             "techStack": "Laravel, Vue.js, MySQL",
             "status": "Planning"
@@ -34,7 +34,7 @@
         {
             "userId": 1,
             "name": "Real Estate Marketplace",
-            "image": "/assets/real-estate.jpg",
+            "image": "assets/real-estate.jpg",
             "description": "Design a web application where users can browse and list properties for sale or rent, with advanced search and filter options.",
             "techStack": "ASP.NET Core, Angular, SQL Server",
             "status": "In Progress"
@@ -42,7 +42,7 @@
         {
             "userId": 1,
             "name": "Travel Itinerary Planner",
-            "image": "/assets/travel-planner.jpg",
+            "image": "assets/travel-planner.jpg",
             "description": "Build a travel planning app that helps users create and organize their travel itineraries, including booking accommodations and activities.",
             "techStack": "Node.js, React, MongoDB, Express",
             "status": "Completed"
@@ -50,7 +50,7 @@
         {
             "userId": 1,
             "name": "Healthcare Management System",
-            "image": "/assets/healthcare-manage.jpg",
+            "image": "assets/healthcare-manage.jpg",
             "description": "Develop a system for healthcare providers to manage patient records, appointments, prescriptions, and medical histories.",
             "techStack": "Java Spring Boot, Angular, PostgreSQL",
             "status": "Planning"
@@ -58,7 +58,7 @@
         {
             "userId": 1,
             "name": "E-Library Platform",
-            "image": "/assets/e-library.jpg",
+            "image": "assets/e-library.jpg",
             "description": "Construct an e-library where users can access a wide range of digital books, journals, and other educational resources.",
             "techStack": "Django, React, MySQL",
             "status": "In Progress"
@@ -66,7 +66,7 @@
         {
             "userId": 1,
             "name": "Food Delivery App",
-            "image": "/assets/food-delivery.jpg",
+            "image": "assets/food-delivery.jpg",
             "description": "Create a mobile app that allows users to order food from restaurants, track deliveries in real-time, and make payments.",
             "techStack": "Swift, Kotlin, Node.js, MongoDB",
             "status": "Completed"
@@ -74,7 +74,7 @@
         {
             "userId": 1,
             "name": "Event Management System",
-            "image": "/assets/event-manage.png",
+            "image": "assets/event-manage.png",
             "description": "Design a platform for organizing and managing events, including registration, ticketing, schedules, and attendee communication.",
             "techStack": "Ruby on Rails, React, PostgreSQL",
             "status": "Planning"
@@ -82,7 +82,7 @@
         {
             "userId": 1,
             "name": "Inventory Management Software",
-            "image": "/assets/inventory-manage.png",
+            "image": "assets/inventory-manage.png",
             "description": "Develop a software solution for businesses to track and manage their inventory, orders, and supply chain.",
             "techStack": "ASP.NET, Angular, SQL Server",
             "status": "In Progress"
