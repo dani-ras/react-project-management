@@ -44,8 +44,8 @@ export function ProjectsTable() {
             header={header}
             value={filteredProjects} >
 
-            <Column field="name" header="Project Name"></Column>
-            <Column field="status" header="Status"></Column>
+            <Column field="name" header="Project Name" sortable></Column>
+            <Column field="status" header="Status" sortable></Column>
 
         </DataTable>
     </div>)
