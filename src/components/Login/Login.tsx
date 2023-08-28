@@ -54,10 +54,10 @@ export function Login() {
                         tryAuthenticate();
                     }}>
                         <label htmlFor="name" className="block text-900 font-medium mb-2">UserName</label>
-                        <InputText id="name" type="text" placeholder="UserName" className="w-full mb-3" onChange={(e) => setUsername(e.target.value)} />
+                        <InputText id="name" type="text" placeholder={users[0].username} className="w-full mb-3" onChange={(e) => setUsername(e.target.value)} />
 
                         <label htmlFor="password" className="block text-900 font-medium mb-2">Password</label>
-                        <InputText id="password" type="password" placeholder="Password" className="w-full mb-3" onChange={(e) => { setPassowrd(e.target.value) }} />
+                        <InputText id="password" type="password" placeholder={users[0].password} className="w-full mb-3" onChange={(e) => { setPassowrd(e.target.value) }} />
 
                         <Button label="Sign In" icon="pi pi-user" className="w-full" disabled={!username || !password} />
                     </form>

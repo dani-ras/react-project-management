@@ -8,7 +8,7 @@ export function ProjectDetails(p: Project) {
 
     return (<>
         <Card header={<div className="flex flex-column align-items-center mb-2 pt-0 mt-o">
-            <img src={p.image} style={{ maxWidth: '80%', borderRadius: '15px' }} />
+            <img src={p.image} style={{ maxWidth: '50%', borderRadius: '15px' }} />
         </div>}>
             <Badge severity={severity} value={p.status} className="mb-1" />
             <span className="flex justify-content-around">

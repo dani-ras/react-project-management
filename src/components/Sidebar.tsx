@@ -11,7 +11,7 @@ export default function Sidebar() {
             <div id="sidebar">
                 <h1>online</h1>
                 <h2>Hi {user?.username}</h2>
-                <Button className="small mt-auto" link onClick={() => dispatch(logout())}>disconnect</Button>
+                <Button className="small mt-auto" link onClick={() => dispatch(logout())}>logout</Button>
             </div>
         </>
     );
